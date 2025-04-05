@@ -1,0 +1,17 @@
+D:\Практика\autoschool1\autoschool1\bin\Debug\autoschool1.exe.config
+D:\Практика\autoschool1\autoschool1\bin\Debug\autoschool1.exe
+D:\Практика\autoschool1\autoschool1\bin\Debug\autoschool1.pdb
+D:\Практика\autoschool1\autoschool1\bin\Debug\System.Data.SQLite.dll
+D:\Практика\autoschool1\autoschool1\bin\Debug\System.Data.SQLite.xml
+D:\Практика\autoschool1\autoschool1\obj\Debug\autoschool1.csproj.AssemblyReference.cache
+D:\Практика\autoschool1\autoschool1\obj\Debug\MainWindow.baml
+D:\Практика\autoschool1\autoschool1\obj\Debug\MainWindow.g.cs
+D:\Практика\autoschool1\autoschool1\obj\Debug\App.g.cs
+D:\Практика\autoschool1\autoschool1\obj\Debug\autoschool1_MarkupCompile.cache
+D:\Практика\autoschool1\autoschool1\obj\Debug\autoschool1.g.resources
+D:\Практика\autoschool1\autoschool1\obj\Debug\autoschool1.Properties.Resources.resources
+D:\Практика\autoschool1\autoschool1\obj\Debug\autoschool1.csproj.GenerateResource.cache
+D:\Практика\autoschool1\autoschool1\obj\Debug\autoschool1.csproj.CoreCompileInputs.cache
+D:\Практика\autoschool1\autoschool1\obj\Debug\autoscho.E9AE5889.Up2Date
+D:\Практика\autoschool1\autoschool1\obj\Debug\autoschool1.exe
+D:\Практика\autoschool1\autoschool1\obj\Debug\autoschool1.pdb
